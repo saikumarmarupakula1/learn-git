@@ -6,5 +6,6 @@ public class demo {
         System.out.println(" a = "+a); 
         System.out.println("Updated code in feature/git-3");
         System.out.println("Updated code in feature/git");
+        System.out.println("Updated in git 1 branch");
     }
 }
