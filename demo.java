@@ -7,5 +7,6 @@ public class demo {
         System.out.println("Updated code in feature/git-3");
         System.out.println("Updated code in feature/git");
         System.out.println("Updated in git 1 branch");
+        System.out.println("added code in feature 1 again");
     }
 }
