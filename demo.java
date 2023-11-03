@@ -5,5 +5,6 @@ public class demo {
         String a = "hi";
         System.out.println(" a = "+a); 
         System.out.println("Updated code in feature/git-3");
+        System.out.println("Updated code in feature/git");
     }
 }
