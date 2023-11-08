@@ -12,5 +12,6 @@ public class demo {
         System.out.println("Code updated in feature/git-2");
         System.out.println("Code updated in feature/git-2 again");
         System.out.println("Updated code in feature/git-3");
+        System.out.println("Stash");
     }
 }
